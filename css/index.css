@@ -244,8 +244,11 @@ nav:after {
   border-bottom: 2px dashed #C0C0C0;
   padding-bottom: 1rem;
 }
+.home header .text-content {
+  margin-top: 3rem;
+}
 .home .content-section {
-  margin: 30px 0;
+  margin: 3rem 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -338,4 +341,5 @@ nav:after {
   font-size: 2rem;
   border-radius: 1.5rem;
   padding: 1rem;
+  cursor: pointer;
 }
